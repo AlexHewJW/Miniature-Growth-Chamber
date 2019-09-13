@@ -7,6 +7,6 @@ During my research, I've found out the LEDs would dissipate some heat that can b
 
 Yet, I still continued my research on the original method of installing LEDs inside the growth chamber and found out that the heat dissipation isn't bad at all.
 
-Here you would see 2 EAGLE files for PCB design, which are for both novel and origianl solution. 
+Here you would see 2 EAGLE files for PCB design, which are for both novel and original solution. 
 
 The single AutoCAD file holds the microchamber design for both novel and original solution.
